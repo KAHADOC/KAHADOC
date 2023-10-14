@@ -39,8 +39,11 @@ While I enjoy different programming languages and IT activities ranging from Dev
   <img src="images/c.png" title="CLanguage" alt="CLanguage" width="40" height="40"/>&nbsp
   <img src="images/c++.png" title="CPlusPlusLanguage" alt="CPlusPlusLanguage" width="40" height="40"/>&nbsp
   <img src="images/java.png" title="JavaLanguage" alt="JavaLanguage" width="40" height="40"/>&nbsp
-  <img src="images/python.png" title="PythonLanguage" alt="PythonLanguage" width="40" height="40"/>&nbsp
-  <img src="images/qt.png" title="QtFramework" alt="QtFramework" width="40" height="40"/>&nbsp
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <img src="images/qt.png" title="QtFramework" alt="QtFramework" width="40" height="40"/>&nbsp
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    
   <img src="images/postgresql.png" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp
   </div>
 
