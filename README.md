@@ -1,5 +1,4 @@
-<h1 align="center">Good day to you, I am Evgeny <a
-<img src="images/banner.gif" height="30"/></a></h1>
+<h1 align="center">Good day to you, I am Evgeny </h1><a href="https://git.com"><img src="images/banner.gif" height="32"/></a>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+Java+programmer" alt="Typing SVG" /></a>
 
 
