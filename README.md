@@ -1,7 +1,7 @@
 <h1 align="center">Good day to you, I am Evgeny
 <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="32"/></h1>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+Java+programmer" alt="Typing SVG" /></a>
-------
+
 
 ## Contents
 
@@ -11,7 +11,6 @@
 3. [Activity](#activity)
 4. [Languages Stats](#languages-stats)
 
----
 
 ## ---
 
